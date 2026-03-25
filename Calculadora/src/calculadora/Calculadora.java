@@ -4,7 +4,7 @@ package calculadora;
  * Conjunto de operaciones básicas (sumar, restar, multiplicar y dividir).
  * 
  * @author Jiapei
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2026
  */
 public class Calculadora {
